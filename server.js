@@ -9,6 +9,7 @@ var express = require("express");
 var bodyParser = require("body-parser");
 
 var app = express();
+app.set("port", (process.env.PORT || 8999));
 
 app.use(bodyParser.json());
 
@@ -61,9 +62,8 @@ app.post("/encounter", function(request, response) {
   }
 });
 
-port = 80;
-app.listen(port, function() {
-  console.log("Starting server on " + port);
+app.listen(app.get("port"), function() {
+  console.log("Starting server on " + app.get("port"));
 });
 
 
