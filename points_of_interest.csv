@@ -1,0 +1,415 @@
+id,name,description,media_url,image_name,latitude,longitude,category
+1,FairFax Studio,Theatre Live,,,-37.82166846,144.9688362,Theatres and Cinemas
+2,Playhouse,Theatre Live,,,-37.82181246,144.9683378,Theatres and Cinemas
+3,State Theatre,Theatre Live,,,-37.82128063,144.9684696,Theatres and Cinemas
+4,St Martins Youth Arts Centre,Theatre Live,,,-37.83524295,144.9811422,Theatres and Cinemas
+5,Princess Theatre,Theatre Live,,,-37.81072571,144.9723266,Theatres and Cinemas
+6,Regent Theatre,Theatre Live,,,-37.81600147,144.9679167,Theatres and Cinemas
+7,Malthouse Theatre,Theatre Live,,,-37.8271768,144.9669368,Theatres and Cinemas
+8,MTC Theatre,Theatre Live,,,-37.82426618,144.9681744,Theatres and Cinemas
+9,Hamer Hall,Theatre Live,,,-37.8199901,144.9679921,Theatres and Cinemas
+10,Athanaeum Theatre,Theatre Live,,,-37.81495435,144.9673225,Theatres and Cinemas
+11,Carlton Courthouse Theatre,Theatre Live,,,-37.79765899,144.9687501,Theatres and Cinemas
+12,Her Majesty's Theatre,Theatre Live,,,-37.81099756,144.9695202,Theatres and Cinemas
+13,Comedy Theatre,Theatre Live,,,-37.81020539,144.9701331,Theatres and Cinemas
+14,La Mama Theatre,Theatre Live,,,-37.7991305,144.9676695,Theatres and Cinemas
+15,Forum Theatre,Theatre Live,,,-37.81648541,144.9693866,Theatres and Cinemas
+16,IMAX Melbourne,Cinema,,,-37.80343156,144.9706399,Theatres and Cinemas
+17,St Francis Church,Church,,,-37.81188478,144.9624226,Places of Worship
+18,Wesley Church,Church,,,-37.81015764,144.9681682,Places of Worship
+19,St Augustines Church,Church,,,-37.81697414,144.954862,Places of Worship
+20,St James Church,Church,,,-37.81012812,144.9524686,Places of Worship
+21,St Mary's Anglican Church,Church,,,-37.80316637,144.9537615,Places of Worship
+22,Romanian Orthodox,Church,,,-37.80523073,144.9669864,Places of Worship
+23,Welsh Presbyterian Church,Church,,,-37.81044788,144.9598733,Places of Worship
+24,Church of Christ,Church,,,-37.81045241,144.9638892,Places of Worship
+25,Scots Church,Church,,,-37.81456878,144.9685511,Places of Worship
+26,St Michael's Uniting Church,Church,,,-37.81438513,144.969174,Places of Worship
+27,Greek Orthodox Church,Church,,,-37.80880647,144.9782591,Places of Worship
+28,St Peter's Eastern Hill,Church,,,-37.80970867,144.9752592,Places of Worship
+29,Lutheran Trinity Church,Church,,,-37.81097571,144.9757295,Places of Worship
+30,Holy Trinity,Church,,,-37.81406671,144.9831973,Places of Worship
+31,St Johns Lutheran Church,Church,,,-37.82093997,144.9671211,Places of Worship
+32,North Melbourne Uniting,Church,,,-37.80355385,144.9476715,Places of Worship
+33,Melbourne Unitarian Church,Church,,,-37.81144878,144.9846649,Places of Worship
+34,All Nations Uniting Church,Church,,,-37.79591553,144.9689811,Places of Worship
+35,Our Lady of Lebanon Church,Church,,,-37.80257665,144.9693347,Places of Worship
+36,St Michaels,Church,,,-37.79405127,144.9453995,Places of Worship
+37,Ukranian Catholic Cathedral,Church,,,-37.79630846,144.9443135,Places of Worship
+38,St Alban Anglican Church,Church,,,-37.79421695,144.9416145,Places of Worship
+39,Christ Church Kensington,Church,,,-37.79321095,144.9272957,Places of Worship
+40,Holy Rosary,Church,,,-37.79480874,144.9283621,Places of Worship
+41,Collins Street Baptist Church,Church,,,-37.81470119,144.9680725,Places of Worship
+42,St Thomas Aquinas Church,Church,,,-37.83530769,144.9768091,Places of Worship
+43,South Yarra Presbyterian Church,Church,,,-37.84074736,144.985627,Places of Worship
+44,The Parish of Christ Church South Yarra,Church,,,-37.83862705,144.9860094,Places of Worship
+45,St Patricks Cathedral,Church,,,-37.8101141,144.9759015,Places of Worship
+46,St Pauls Cathedral,Church,,,-37.8169549,144.9676816,Places of Worship
+47,East Melbourne Synagogue,Synagogue,,,-37.80911373,144.9742219,Places of Worship
+48,State Netball Hockey Centre,Major Sports & Recreation Facility,,,-37.785786,144.947581,Sports
+49,Carlton Football Club,Major Sports & Recreation Facility,,,-37.78408644,144.9619678,Sports
+50,Visy Park,Major Sports & Recreation Facility,,,-37.78343039,144.9619826,Sports
+51,Flemington Racecourse,Major Sports & Recreation Facility,,,-37.79080826,144.912143,Sports
+52,Melbourne Cricket Ground (MCG),Major Sports & Recreation Facility,,,-37.81949216,144.9834029,Sports
+53,AAMI Park,Major Sports & Recreation Facility,,,-37.82472527,144.983803,Sports
+54,Rod Laver Arena,Major Sports & Recreation Facility,,,-37.82204561,144.9784872,Sports
+55,Melbourne Park,Major Sports & Recreation Facility,,,-37.8209086,144.9787358,Sports
+56,Margaret Court Arena,Major Sports & Recreation Facility,,,-37.82132521,144.9775911,Sports
+57,Hisense Arena,Major Sports & Recreation Facility,,,-37.82311,144.9818348,Sports
+58,North Melbourne Recreation Centre (Aquatic),Major Sports & Recreation Facility,,,-37.799947,144.9432908,Sports
+59,City Baths,Major Sports & Recreation Facility,,,-37.80715854,144.9631898,Sports
+60,Westpac Centre,Major Sports & Recreation Facility,,,-37.82424569,144.9797203,Sports
+61,Etihad Stadium,Major Sports & Recreation Facility,,,-37.81617605,144.9474963,Sports
+62,Royal Park Golf Course,Private Sports Club/Facility,,,-37.78191713,144.9563091,Sports
+63,Melbourne International Shooting Club,Private Sports Club/Facility,,,-37.82928449,144.9134158,Sports
+64,Coles Fountain,Memorial Fountain - Arts & History,,,-37.80977064,144.973484,Public Memorials & Sculptures
+65,South African War Memorial (Memorial to Fallen Soldiers),Memorial Sculpture - Arts & History,,,-37.82594145,144.9718568,Public Memorials & Sculptures
+66,World War 1 Memorial,Memorial Sculpture - Arts & History,,,-37.79155022,144.9580865,Public Memorials & Sculptures
+67,Sir Edward 'Weary' Dunlop,Memorial Sculpture - Arts & History,,,-37.8253098,144.9715943,Public Memorials & Sculptures
+68,Zoo Paving,Paving - Arts & History,,,-37.78256132,144.9532939,Public Memorials & Sculptures
+69,Black Swan Memorial Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.81957057,144.9718244,Public Memorials & Sculptures
+70,Burke & Wills Cairn,Cairn - Arts & History,,,-37.78892812,144.9560581,Public Memorials & Sculptures
+71,William Ievers (Jnr) Memorial Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.79825783,144.9705646,Public Memorials & Sculptures
+72,Macpherson-Robertson Fountain,Memorial Fountain - Arts & History,,,-37.83237746,144.9729343,Public Memorials & Sculptures
+73,Councillor William Cook Memorial Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.78528747,144.96619,Public Memorials & Sculptures
+74,The Travellers,Sculpture - Arts & History,,,-37.82007938,144.9629605,Public Memorials & Sculptures
+75,Beyond the Ocean of Existence,Sculpture - Arts & History,,,-37.81642363,144.9670615,Public Memorials & Sculptures
+76,Pioneer Women's Memorial,Memorial Garden/Sculpture - Arts & History,,,-37.82511478,144.9760762,Public Memorials & Sculptures
+77,Sir Samuel Gillott,Bust - Arts & History,,,-37.81372574,144.9726154,Public Memorials & Sculptures
+78,Ceremony and Vehicle for Conveying Spirit,Sculpture - Arts & History,,,-37.81369576,144.968513,Public Memorials & Sculptures
+79,Temple of the Winds,Rotunda - Arts & History,,,-37.81280965,144.9817359,Public Memorials & Sculptures
+80,Sir Thomas Blamey Memorial,Memorial Sculpture - Arts & History,,,-37.8263011,144.9728189,Public Memorials & Sculptures
+81,Boy on a Turtle,Statue - Arts & History,,,-37.81438929,144.9799102,Public Memorials & Sculptures
+82,Personal Islands,Pavement Inlay - Arts & History,,,-37.81295407,144.9652649,Public Memorials & Sculptures
+83,Sir William John Clarke,Monument - Arts & History,,,-37.81367295,144.9743449,Public Memorials & Sculptures
+84,A History Apparatus - Vessel Craft & Beacon,Sculpture - Arts & History,,,-37.81304936,144.968211,Public Memorials & Sculptures
+85,Stanford Fountain,Fountain - Arts & History,,,-37.81243425,144.9739555,Public Memorials & Sculptures
+86,Children's Lake Waterfall,Memorial Waterfall - Arts & History,,,-37.82240515,144.9706435,Public Memorials & Sculptures
+87,Diana and the Hounds,Sculpture - Arts & History,,,-37.81430678,144.9784994,Public Memorials & Sculptures
+88,Victorian Rowing Association World War 1 Memorial,Memorial Cenotaph - Arts & History,,,-37.82175927,144.9747726,Public Memorials & Sculptures
+89,Wind Contrivance,Sculpture - Arts & History,,,-37.80725189,144.9592306,Public Memorials & Sculptures
+90,Widow and Children,Statue - Arts & History,,,-37.83028191,144.9743398,Public Memorials & Sculptures
+91,Henderson Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.80334182,144.9497392,Public Memorials & Sculptures
+92,Grant's Fountain,Memorial Fountain - Arts & History,,,-37.80747038,144.9685933,Public Memorials & Sculptures
+93,Fairies Tree,Sculpture - Arts & History,,,-37.81340997,144.9811022,Public Memorials & Sculptures
+94,Painted Poles,Sculpture - Arts & History,,,-37.81575629,144.9668104,Public Memorials & Sculptures
+95,River God Fountain,Fountain - Arts & History,,,-37.81041672,144.9808824,Public Memorials & Sculptures
+96,Port Philip Monument,Monument - Arts & History,,,-37.80569577,144.907291,Public Memorials & Sculptures
+97,John Pascoe Fawkner Memorial,Sculpture - Arts & History,,,-37.81767706,144.9599953,Public Memorials & Sculptures
+98,Mermaid and Fish,Sculpture - Arts & History,,,-37.813842,144.9827587,Public Memorials & Sculptures
+99,Cow Up A Tree,Docklands Sculpture - Arts & History,,,-37.81712235,144.9452797,Public Memorials & Sculptures
+100,Dr Louis Smith,Bust - Arts & History,,,-37.80474431,144.9724521,Public Memorials & Sculptures
+101,Spray Lake,Fountain - Arts & History,,,-37.80580965,144.9725288,Public Memorials & Sculptures
+102,Grey Street Fountain,Memorial Fountain - Arts & History,,,-37.8115435,144.9829509,Public Memorials & Sculptures
+103,Sir John Monash,Memorial Sculpture - Arts & History,,,-37.82677334,144.9727521,Public Memorials & Sculptures
+104,Bird Panels,Sculpture - Arts & History,,,-37.79535267,144.9406873,Public Memorials & Sculptures
+105,Tianjin Garden Chinese Lion Guardians,Sculpture - Arts & History,,,-37.81125373,144.9693477,Public Memorials & Sculptures
+106,Time and Tide,Sculpture - Arts & History,,,-37.81439838,144.9662509,Public Memorials & Sculptures
+107,Passage,Sculpture - Arts & History,,,-37.80745243,144.9583067,Public Memorials & Sculptures
+108,Elliot Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.78205004,144.9569667,Public Memorials & Sculptures
+109,Farnex Hercules,Sculpture - Arts & History,,,-37.82110929,144.9696731,Public Memorials & Sculptures
+110,The Dolphin Fountain,Sculpture - Arts & History,,,-37.81188844,144.9800158,Public Memorials & Sculptures
+111,R.J. & F.G.J. Hardy Memorial Drinking Fountain (Also Know as Hardy Drinking Fountain),Memorial Drinking Fountain - Arts & History,,,-37.78559128,144.9693142,Public Memorials & Sculptures
+112,The Court Favourite,Sculpture - Arts & History,,,-37.81026399,144.955039,Public Memorials & Sculptures
+113,Pioneer Monument,Monument - Arts & History,,,-37.81080135,144.9539545,Public Memorials & Sculptures
+114,The Pathfinder,Sculpture - Arts & History,,,-37.82202809,144.9703553,Public Memorials & Sculptures
+115,Argyle Square Piazza,Unknown - Arts & History,,,-37.80244409,144.9658753,Public Memorials & Sculptures
+116,Dinny O'Hern Fountain,Memorial Fountain - Arts & History,,,-37.79759911,144.9673065,Public Memorials & Sculptures
+117,Silence,Sculpture - Arts & History,,,-37.81510709,144.9415465,Public Memorials & Sculptures
+118,Miraggio [also known as Seated Figure],Sculpture - Arts & History,,,-37.82401351,144.9741516,Public Memorials & Sculptures
+119,The Phoenix,Sculpture - Arts & History,,,-37.82215325,144.9709506,Public Memorials & Sculptures
+120,John Mockridge Fountain,Fountain - Arts & History,,,-37.81552237,144.9669943,Public Memorials & Sculptures
+121,Architectural Fragment,Sculpture - Arts & History,,,-37.80982754,144.9640461,Public Memorials & Sculptures
+122,Captain Matthew Flinders Statue,Sculpture - Arts & History,,,-37.81696331,144.9674876,Public Memorials & Sculptures
+123,Grotto Waterfall,Memorial Waterfall - Arts & History,,,-37.82563932,144.9767611,Public Memorials & Sculptures
+124,Faultline,Sculpture - Arts & History,,,-37.82115251,144.9642381,Public Memorials & Sculptures
+125,Aurora,Aurora Sculpture in Docklands - Arts & History,,,-37.81869383,144.9468563,Public Memorials & Sculptures
+126,William Ievers (Snr) Memorial Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.80283419,144.9663856,Public Memorials & Sculptures
+127,Adam Lindsay Gordon Memorial,Memorial Sculpture - Arts & History,,,-37.8123635,144.9737451,Public Memorials & Sculptures
+128,Separation Memorial,Memorial Sculpture - Arts & History,,,-37.81069512,144.9536859,Public Memorials & Sculptures
+129,Boy and Pelican,Sculpture - Arts & History,,,-37.81376752,144.9827718,Public Memorials & Sculptures
+130,Bali Memorial,Fountain - Arts & History,,,-37.80248411,144.9632428,Public Memorials & Sculptures
+131,Lie of the Land,Sculpture - Arts & History,,,-37.80376917,144.9721343,Public Memorials & Sculptures
+132,King George V,Memorial Sculpture - Arts & History,,,-37.82427268,144.9732134,Public Memorials & Sculptures
+133,Janet Lady Clarke Memorial Sculpture,Rotunda - Arts & History,,,-37.82233548,144.9718353,Public Memorials & Sculptures
+134,King Edward VII Memorial,Sculpture - Arts & History,,,-37.8226718,144.9709882,Public Memorials & Sculptures
+135,General Charles Gordon Memorial,Memorial Sculpture - Arts & History,,,-37.81272601,144.9739425,Public Memorials & Sculptures
+136,Larry La Trobe,Sculpture - Arts & History,,,-37.81554854,144.9668921,Public Memorials & Sculptures
+137,George Hawkins Ievers Memorial Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.79217291,144.9580902,Public Memorials & Sculptures
+138,Statue of Meditation,Sculpture - Arts & History,,,-37.81395386,144.9785774,Public Memorials & Sculptures
+139,Raising the Rattler Pole,Sculpture - Arts & History,,,-37.82090066,144.9546928,Public Memorials & Sculptures
+140,Motorcyclist Harold Parsons Memorial,Memorial Sculpture - Arts & History,,,-37.81704008,144.9895811,Public Memorials & Sculptures
+141,Brunton Drinking Fountain East,Memorial Drinking Fountain - Arts & History,,,-37.78930375,144.9721789,Public Memorials & Sculptures
+142,Queen Victoria Memorial,Memorial Sculpture statue - Arts & History,,,-37.82184119,144.972479,Public Memorials & Sculptures
+143,Lake Waterfall,Waterfall - Arts & History,,,-37.82208607,144.971811,Public Memorials & Sculptures
+144,Blowhole,Sculpture - Arts & History,,,-37.82186286,144.9470094,Public Memorials & Sculptures
+145,Edward George Honey Memorial,Sculpture - Arts & History,,,-37.82975546,144.9744198,Public Memorials & Sculptures
+146,The Water Nymph,Sculpture - Arts & History,,,-37.8222098,144.9713354,Public Memorials & Sculptures
+147,Peter Pan,Sculpture - Arts & History,,,-37.78477298,144.9523648,Public Memorials & Sculptures
+148,Railway Viewing Platform,Sculpture - Arts & History,,,-37.80881693,144.9436883,Public Memorials & Sculptures
+149,Dairy Hall Window,Window - Arts & History,,,-37.80720673,144.9592717,Public Memorials & Sculptures
+150,Boy and Urn,Fountain - Arts & History,,,-37.8121218,144.9797032,Public Memorials & Sculptures
+151,Birrarung Wilam [Common Ground],Sculpture - Arts & History,,,-37.81859572,144.9718217,Public Memorials & Sculptures
+152,Another View Site 1,Sculpture - Arts & History,,,-37.81129434,144.973169,Public Memorials & Sculptures
+153,Weathervanes,Sculpture - Arts & History,,,-37.81353704,144.9656409,Public Memorials & Sculptures
+154,Duke & Duchess of York Memorial [also known as Temperence],Memorial Drinking Fountain - Arts & History,,,-37.80662922,144.9599089,Public Memorials & Sculptures
+155,Reed Vessel,Sculpture - Arts & History,,,-37.82023233,144.9463251,Public Memorials & Sculptures
+156,Exhibition Fountain,Fountain - Arts & History,,,-37.80545677,144.9713683,Public Memorials & Sculptures
+157,Man with the Donkey,Sculpture - Arts & History,,,-37.82948203,144.9738585,Public Memorials & Sculptures
+158,Conservatory Fountain,Memorial Drinking Fountain - Arts & History,,,-37.81387433,144.9785955,Public Memorials & Sculptures
+159,Island Wave,Sculpture - Arts & History,,,-37.80932642,144.9580572,Public Memorials & Sculptures
+160,Hotham Hill Pavement Inlay,Pavement Inlay - Arts & History,,,-37.79490479,144.9403835,Public Memorials & Sculptures
+161,French Fountain,Fountain - Arts & History,,,-37.80490093,144.9728499,Public Memorials & Sculptures
+162,Ecophene,Sculpture - Arts & History,,,-37.81980563,144.9632854,Public Memorials & Sculptures
+163,The Echo,Sculpture - Arts & History,,,-37.81270568,144.9651539,Public Memorials & Sculptures
+164,John Batman Memorial,Cairn - Arts & History,,,-37.80813551,144.9576459,Public Memorials & Sculptures
+165,"Three Businessmen Who Brought Their Own Lunch: Batman, Swanston & Hoddle",Sculpture - Arts & History,,,-37.8136854,144.9655745,Public Memorials & Sculptures
+166,Koorie Mural,Mural - Arts & History,,,-37.80699394,144.963054,Public Memorials & Sculptures
+167,Walker Fountain,Fountain - Arts & History,,,-37.82354894,144.9708276,Public Memorials & Sculptures
+168,Mary Gilbert Memorial,Bust - Arts & History,,,-37.81407568,144.9785603,Public Memorials & Sculptures
+169,Westgarth Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.8050913,144.9734173,Public Memorials & Sculptures
+170,Australian Hellenic Memorial,Memorial - Arts & History,,,-37.82721243,144.9729739,Public Memorials & Sculptures
+171,Electric Supply Box D,Sculpture - Arts & History,,,-37.81352489,144.9659129,Public Memorials & Sculptures
+172,Apollo Belvedere,Sculpture - Arts & History,,,-37.82105938,144.9697574,Public Memorials & Sculptures
+173,Burke and Wills Monument,Sculpture - Arts & History,,,-37.8156337,144.966704,Public Memorials & Sculptures
+174,Lynch's Bridge Mosaic Mural,Mural - Arts & History,,,-37.79020534,144.9239392,Public Memorials & Sculptures
+175,Nurse Edith Cavell Memorial,Sculpture - Arts & History,,,-37.82798784,144.9736992,Public Memorials & Sculptures
+176,Reynold's Reserve Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.78366119,144.960004,Public Memorials & Sculptures
+177,Victoria Police Memorial,Memorial - Arts & History,,,-37.82424173,144.9709823,Public Memorials & Sculptures
+178,The Genie,Sculpture - Arts & History,,,-37.8214877,144.9711947,Public Memorials & Sculptures
+179,Boer War Monument,Memorial Sculpture - Arts & History,,,-37.83339206,144.9722467,Public Memorials & Sculptures
+180,Resting Place,Seat - Arts & History,,,-37.81037211,144.9640765,Public Memorials & Sculptures
+181,Georges Fountain,Fountain - Arts & History,,,-37.81476531,144.9683739,Public Memorials & Sculptures
+182,Eight Hour Day Memorial,Monument - Arts & History,,,-37.80715499,144.9655884,Public Memorials & Sculptures
+183,Eel Trap,Sculpture - Arts & History,,,-37.81912216,144.9740758,Public Memorials & Sculptures
+184,John F. Kennedy Memorial,Memorial - Arts & History,,,-37.81365975,144.9763545,Public Memorials & Sculptures
+185,City Living,Sculpture - Arts & History,,,-37.81147506,144.9531654,Public Memorials & Sculptures
+186,Bandstand,Bandstand - Arts & History,,,-37.81182207,144.9826571,Public Memorials & Sculptures
+187,Domed Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.82124039,144.9707695,Public Memorials & Sculptures
+188,Fruition,Fruition - Arts & History,,,-37.78958485,144.9430068,Public Memorials & Sculptures
+189,Samuel Mauger Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.80824896,144.9753153,Public Memorials & Sculptures
+190,Painted Poles,Sculpture - Arts & History,,,-37.81009689,144.9641651,Public Memorials & Sculptures
+191,Sir William Brunton Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.78930375,144.9721789,Public Memorials & Sculptures
+192,Waterfall Fountain,Memorial Waterfall - Arts & History,,,-37.81371709,144.9801407,Public Memorials & Sculptures
+193,Another View Site 8,Sculpture - Arts & History,,,-37.81941336,144.9601987,Public Memorials & Sculptures
+194,Coat of Arms,Pavement Inlay - Arts & History,,,-37.81510417,144.9664693,Public Memorials & Sculptures
+195,The Public Purse,Seat - Arts & History,,,-37.81409769,144.9634008,Public Memorials & Sculptures
+196,Constellation,Sculpture - Arts & History,,,-37.82024606,144.9606625,Public Memorials & Sculptures
+197,Clayton Reserve Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.79566355,144.9389348,Public Memorials & Sculptures
+198,Horse Hitching Post,Hitching Post - Arts & History,,,-37.81502994,144.9749315,Public Memorials & Sculptures
+199,Within Three Worlds,Sculpture - Arts & History,,,-37.77886822,144.9611152,Public Memorials & Sculptures
+200,Robert Burns Memorial,Sculpture - Arts & History,,,-37.81437358,144.97472,Public Memorials & Sculptures
+201,Water Children,Sculpture - Arts & History,,,-37.82212412,144.970662,Public Memorials & Sculptures
+202,Brunton Drinking Fountain West,Memorial Drinking Fountain - Arts & History,,,-37.8184091,144.9788554,Public Memorials & Sculptures
+203,Another View Site 17,Sculpture - Arts & History,,,-37.81480509,144.968381,Public Memorials & Sculptures
+204,Vault,Sculpture - Arts & History,,,-37.82607139,144.9677327,Public Memorials & Sculptures
+205,Thomas Ferguson Memorial Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.80153948,144.9602272,Public Memorials & Sculptures
+206,Scar: A Stolen Vision,Indigenous - Arts & History,,,-37.82010166,144.9594544,Public Memorials & Sculptures
+207,Captain Cook,Sculpture - Arts & History,,,-37.81457925,144.9794944,Public Memorials & Sculptures
+208,Hotham Hill Seat,Sculpture - Arts & History,,,-37.79493522,144.9403408,Public Memorials & Sculptures
+209,Sundial,Sundial - Arts & History,,,-37.81031621,144.9549375,Public Memorials & Sculptures
+210,Signature Work,Sculpture - Arts & History,,,-37.81924314,144.9472468,Public Memorials & Sculptures
+211,People's Path,Bricks / Tiles - Arts & History,,,-37.81102351,144.9783892,Public Memorials & Sculptures
+212,John Batman Memorial [2],Sculpture - Arts & History,,,-37.81765978,144.959773,Public Memorials & Sculptures
+213,James C Roberts Memorial,Memorial Sculpture - Arts & History,,,-37.78913816,144.9570538,Public Memorials & Sculptures
+214,Marquis of Linlithgow,Statue - Arts & History,,,-37.82666406,144.9719166,Public Memorials & Sculptures
+215,Commonwealth Games Aquatic Sculptures - Eels,Sculpture - Arts & History,,,-37.79662908,144.9243067,Public Memorials & Sculptures
+216,Australia Today and Tomorrow,Sculpture - Arts & History,,,-37.81405489,144.9673387,Public Memorials & Sculptures
+217,Stapley Memorial Drinking Fountain,Memorial Drinking Fountain - Arts & History,,,-37.81891098,144.9730212,Public Memorials & Sculptures
+218,Tilly Aston Bell,Memorial Sculpture - Arts & History,,,-37.82537174,144.9759002,Public Memorials & Sculptures
+219,Model Tudor Village,Model - Arts & History,,,-37.81325721,144.9810123,Public Memorials & Sculptures
+220,Aboriginal Scarred Tree - Fitzroy Gardens,Scarred Tree - Scarred tree of uncertain species first recorded in 1968. In 1993 the tree was recorded as dead but standing.,,,-37.81470006,144.9808109,Indigenous Heritage
+221,Aboriginal Scarred Tree - Melbourne Zoo,"Scarred Tree - A red gum located immediately within the fence of the zoo, to the north east of the Admin Building at the main gate.",,,-37.78178984,144.9519932,Indigenous Heritage
+222,Aboriginal Scarred Tree - Yarra Park 2,Scarred Tree - Scarred tree which was recorded as dead and lopped in 2007.,,,-37.82090829,144.9854779,Indigenous Heritage
+223,Aboriginal Scarred Tree - Yarra Park 1,Scarred Tree - Scarred red gum with toe holds recorded as alive but suffering from rot and possum damage in 2007.,,,-37.8215312,144.9866206,Indigenous Heritage
+224,Aboriginal Scarred Tree - Yarra Park 3,"Scarred Tree - Scarred red gum located approximately equidistant between Punt Road and the MCG, in line with Rowena Parade.",,,-37.82123034,144.9862021,Indigenous Heritage
+225,Aboriginal Scarred Tree,Scarred Tree - Red gum on Princes Park Drive.,,,-37.78816617,144.9629045,Indigenous Heritage
+226,Exhibition Gardens Meeting Place,"Meeting Place - From the 1920s to 1940s, the Moreton Bay Fig Tree (Ficus macrophylla) in Carlton Gardens provided one of the most important places for social or political meetings for the emerging Aboriginal community.",,,-37.8063001,144.9712944,Indigenous Heritage
+227,Kings Domain Resting Place,"Re-burial site; Memorial - Five 'art poles' have been erected in memoriam of the unprovenced remains of 38 Aboriginal people 'from Victoria', which were repatriated from the Museum of Victoria in 1985.",,,-37.82265836,144.9726355,Indigenous Heritage
+228,Melbourne Cricket Ground,Camping site - An Aboriginal camping site is recorded in the mid 19th century on land now occupied by the Melbourne and Richmond Cricket Clubs.,,,-37.8185988,144.9822807,Indigenous Heritage
+229,Baldwin Spencer Building,Building - The Baldwin Spencer Building at the University if Melbourne was opened in 1888 following designs submitted by the first Professor of Biology Walter Baldwin Spencer; who took on the position of special commisioner and Chief Protector of Aborigines.,,,-37.7964972,144.9619484,Indigenous Heritage
+230,Derrimut's Grave,"Grave - Grave and memorial stone erected by some of the early colonists to commemorate Derrimut, head of the Yalukit willam clan of the Bonn Wurrung.",,,-37.728205,144.855187,Indigenous Heritage
+231,"Former cemetery site, Queen Victoria Market","Cemetery - The market was built in 1875 on land which was part of the Old Melbourne Cemetery, part of which was used for the burial of Aboriginal people, including Tunnerminnerwait and Maulboyheenner, the first people to be executed in Melbourne.",,,-37.80786828,144.9567622,Indigenous Heritage
+232,Victorian Parliament Building,"Building - In 1874, when the Coranderrk Aboriginal reserve came under threat of closure, William Barak launched a political campaign, to keep the mission open which culminated in a walk to Parliament House.",,,-37.811047,144.973821,Indigenous Heritage
+233,Parliament Hill (approximate location),"Corroboree Location - Parliament Hill, which was a traditional Kulin meeting place and favoured for inter-clan gatherings and ceremonial purposes.",,,-37.81123763,144.9859446,Indigenous Heritage
+234,Site of Yarra Mission,"Mission Site - A mission school comprising three houses and a number of huts, which is known to have been attended by William Barak, was established in 1837 but closed in March 1839.",,,-37.83115814,144.9831605,Indigenous Heritage
+235,Royal Botanic Gardens,"Cultural Tour - An Aboriginal Heritage Walk is currently run by Indigenous Guides through the gardens, part of which comprise the site of the former Yarra Mission.",,,-37.830369,144.979606,Indigenous Heritage
+236,Koorie Heritage Trust,"Collection; Building - The Koorie Heritage Trust Inc is a not-for-profit Aboriginal community organisation that aims to protect, preserve and promote the living culture of Aboriginal people of south-eastern Australia.",,,-37.8133469,144.9543025,Indigenous Heritage
+237,William Street Falls,"Remnant Geography - Before they were dynamited to make the upper Yarra navigable, the falls provided a meeting point of great importance to clans in the area where they met at least twice a year to settle grievances and for other matters.",,,-37.81993789,144.9602008,Indigenous Heritage
+238,Government House Battle Site,"Battle Site Memorial - The hill on which Government House stands was a known meeting place for Aboriginal clans, at which a battle (during which no lives were lost) was witnessed by the Hon. Fred Belcher in 1839.",,,-37.82776851,144.9768949,Indigenous Heritage
+239,Former Barracks of the Native Police in Yarra Park,Native Police Barracks - The Native police stayed in these barracks when absent from their station on the Dandenong flats.,,,-37.81691219,144.9900913,Indigenous Heritage
+240,Flagstaff Gardens,"Burial Memorial - A pioneer memorial erected on the hill marks the site of early inhabitant's graves, including those of the first settlers killed in conflict with Aboriginal people.",,,-37.809674,144.954718,Indigenous Heritage
+241,Old Melbourne Gaol and Gallows Hill,Execution Site Memorial - Maulboyheenner and Tunnerminnerwaitl were publically hung for the murder of two whalers on 20th January 1842 and are believed to be the first people executed in Victoria.,,,-37.8078598,144.9652487,Indigenous Heritage
+242,Collins Street Gaol (approximate site),Gaol - A mass arrest and gaoling of Aboriginal people took place at this site in 1840.,,,-37.818319,144.95621,Indigenous Heritage
+243,Fawkner Park,Camping site - Fawkner Park was a favourite Aboriginal camping ground in the mid 1800s.,,,-37.8387927,144.9842227,Indigenous Heritage
+244,Melbourne City Town Hall,"Building - Aboriginal people have increasingly used this building over the years, including for political meetings and celebrations.",,,-37.81505,144.966711,Indigenous Heritage
+245,Emerald Hill,Corroboree Location - A corroboree and initiation site frequented by the Aboriginal people.,,,-37.82777699,144.97123,Indigenous Heritage
+246,North Melbourne Town Hall,"Building - Important meetings took place here in March 1997, when discussions took place about Indigenous sovereignty and the right to practise Customary Law in Australia.",,,-37.803295,144.949805,Indigenous Heritage
+247,Site of Queen's Theatre,Site of Building - Six Kulin men performed corroborees for a week in 1856 to entertain the gold diggers.,,,-37.8139684,144.9602915,Indigenous Heritage
+248,Princes Bridge near South Bank of the Yarra,"Building - Bill Bull, Gum Leaf Player, busked here before being moved on by the police or gaoled.",,,-37.8193123,144.9683058,Indigenous Heritage
+249,Punt Road Oval,"Camping site - In 1850 the Richmond Cricket Club was given occupancy rights to six acres for a cricket ground on the eastern side of the Government Paddock at Yarra Park, an area used by Aboriginals until 1835.",,,-37.822131,144.988205,Indigenous Heritage
+250,South Bank of the Yarra River (Princes Bridge and Punt Road),"Camping site - Known Camp Sites of the Bun wurrung, Daung wurrung and Woi wurrung.",,,-37.8199506,144.9684459,Indigenous Heritage
+251,Site of 'Aboriginal House',Site of building - This community facility housed important meeetings such as that in July 1973 when Victorian Aboriginal Health Service (VAHS) founders held a special meeting at to discuss plans for the establishment of a VAHS building.,,,-37.8177099,144.9558783,Indigenous Heritage
+252,Royal Park and Princes Park - to both sides of Royal Parade,"Camping site - A preferred camp area for all Aboriginal groups, within which areas of the pre-1836 landscape are understood to survive.",,,-37.78894622,144.9587846,Indigenous Heritage
+253,Royal Park Camp,"Camping site - An important Aboriginal camping ground at which William Kyle, who arrived at Port Phillip in 1841, records a gathering in 1861 attended by the Wada Wurrung, Woi Wurrung and Gippsland Tribes.",,,-37.781061,144.95221,Indigenous Heritage
+254,Melbourne General Cemetery Camp,"Camping site - William Kyle, who arrived at Port Phillip in 1841, records the Corio and other western district tribes camping on the hill now occupied by the cemetery.",,,-37.78865794,144.9653506,Indigenous Heritage
+255,Site of Jimmy Dunbar's Grave,"Grave; Memorial - Jimmy/James Dunbar was recognised as the 'last of the Bunurong Tribe' and died on the 5th March 1877, he was buried in the Melbourne General Cemetary, however the exact location remains unknown.",,,-37.78981952,144.965415,Indigenous Heritage
+256,Collins Street Baptist Church,"Building - On Tuesday 12th May 1846, the Merri Creek Aboriginal School Committee held a Public Meeting at the Collins Street Baptist Church, at which 13 Aboriginal boys and seven girls performed.",,,-37.814767,144.967763,Indigenous Heritage
+257,'Save the Aboriginal Committee' office,Site of building - The location of the first office for the Aboriginal Advancement League.,,,-37.8154475,144.9696754,Indigenous Heritage
+258,Site of Cattle Sheds,"Site of building - The 1862 Second Report of the Board of the Protection of Aborigines recorded the provision of rations 'for the blacks at the cattle sheds, Melbourne'.",,,-37.8161129,144.9527433,Indigenous Heritage
+259,Site of Lambs Inn,"Site of building - George Smith, the owner of the inn, had two Aboriginal employees, Boudeour and Mingyurer (Mr Mann).",,,-37.8177249,144.9590814,Indigenous Heritage
+260,Punt Bridge Corroboree,"Corroboree Location - The site of a wooden toll bridge built by Patrick Doherty (1846-50), at which a corroboree was held.",,,-37.81888696,144.9675608,Indigenous Heritage
+261,Flinders Park (Birrirung Marr),Meeting place - The Australian Aboriginal League used to run meetings every Sunday at Flinders Park.,,,-37.81932767,144.9756825,Indigenous Heritage
+262,Narm-Jaap (Queen's Wharf),"Aboriginal Named Area - According to the 'Ballarat Star' of 8th June 1864, after J.L. Currie, the Aboriginal word 'Narm-Jaap' refers to the Tea Tree Scrub where the Queen's Wharf stood in 1864.",,,-37.82015,144.959471,Indigenous Heritage
+263,Site of Benbow's Hut,"Site of building - Benbow was apparently employed by Batman, and maintained a hut in Batman's garden.",,,-37.821889,144.956537,Indigenous Heritage
+264,Turneet (Rivolla or Rivolia),Aboriginal Named Area - n 1840 Chief Protector George Augustus Robinson purchased eight hectares on land which the local Aboriginal people said was called 'Turneet'.,,,-37.82292956,144.964149,Indigenous Heritage
+265,Lonsdale's Paddock / Mounted Police Barracks,Native Police Barracks - By 1838 the Native Police Corps has been established at a paddock here.,,,-37.82178545,144.985714,Indigenous Heritage
+266,Governor General's Camp,Camping site - William Kyle records the Westernport tribes camping at what became the location of the Governor General's Residence in the mid 19th century.,,,-37.82785326,144.9773347,Indigenous Heritage
+267,Yarra Mission,"Site of Mission - The Yarra Mission was set up in March 1837 by George Langhorne, an Anglican Minister, at the Port Philllip Settlement.",,,-37.83125983,144.984169,Indigenous Heritage
+268,Statue of Pastor Sir Doug and Lady Gladys Nicholls,Memorial - A Statue of Sir Pastor Douglas and Lady Gladys Nicholls in honour of the work they accomplished and the effect they had on the future of the Aboriginal People of Australia.,,,-37.80969,144.973058,Indigenous Heritage
+269,Sculpture - Painted Poles,Contemporary Art; Cultural Tour - Three poles dipicting the Rainbow Serpent and other native Australian animals.,,,-37.813088,144.965026,Indigenous Heritage
+270,Birrarung Wilam [Common Ground] (Sculpture),Contemporary Art; Aboriginal Named Area  - An environmental project that celebrates the physical and spiritual links between Aboriginal People and their land.,,,-37.817979,144.969058,Indigenous Heritage
+271,Scar: A Stolen Vision (Sculpture),Contemporary Art; Cultural Tour; Memorial - An artwork incorporating seven visual artists to create contemporary works that convey tradition and underscore continuity with past practices,,,-37.82015,144.959471,Indigenous Heritage
+272,The Travellers (Sculpture),Contemporary Art; Bulding - A scuplture that celebrates the presence of Aboriginal people and the continuous migration to multicultural Australia.,,,-37.820201,144.962829,Indigenous Heritage
+273,Eel Trap (Sculpture),Contemporary Art; - A sculpture made to celebrate the importance of the eel trap and the eel as a food source in Aboriginal cultural life.,,,-37.817979,144.969058,Indigenous Heritage
+274,Reed Vessel (Sculpture),Contmeporary Art; Memorial - A sculpture that achknowledges the history of the site on which it is located as well as the continuing migration of different cultures to Australia.,,,-37.8212777,144.9463315,Indigenous Heritage
+275,Webb Bridge,"Contemporary Art; Building - A design to honour the importance of the eel trap to Indigenous life, and the eel as a staple part of the diet of Aboriginal people.",,,-37.8233525,144.9472794,Indigenous Heritage
+276,Sandridge Bridge,Meeting Place; Building - Sandridge Bridge is associated with an Aboriginal meeting ground and the landing point where many settlers first landed.,,,-37.820201,144.962829,Indigenous Heritage
+277,Lie of the Land,"Building; Contemporary Art; Memorial - Lie of the Land is a sculpture with a sound installation that hauntingly tells the story of the effect of colonisation on the Indigenous people in Australia, and around the world.",,,-37.803646,144.972942,Indigenous Heritage
+278,Old Melbourne Gaol Crime & Justice Experience,Art Gallery/Museum,,,-37.80776441,144.9654639,Galleries and Museums
+279,Polly Woodside,Art Gallery/Museum,,,-37.82425743,144.9534781,Galleries and Museums
+280,Australian Centre for Contemporary Art,Art Gallery/Museum,,,-37.82660454,144.9672529,Galleries and Museums
+281,Victorian Arts Centre,Art Gallery/Museum,,,-37.82199473,144.9688373,Galleries and Museums
+282,The Ian Potter Centre: NGV Australia,Art Gallery/Museum,,,-37.81748314,144.969899,Galleries and Museums
+283,Thoroughbred Racing Gallery,Art Gallery/Museum,,,-37.81886627,144.9839701,Galleries and Museums
+284,Fox Classic Car Collection,Art Gallery/Museum,,,-37.82137443,144.9484967,Galleries and Museums
+285,Melbourne Museum,Art Gallery/Museum,,,-37.80355181,144.9716907,Galleries and Museums
+286,National Sports Museum,Art Gallery/Museum,,,-37.81895449,144.9846698,Galleries and Museums
+287,Sinclair's Cottage,Art Gallery/Museum,,,-37.81454075,144.980555,Galleries and Museums
+288,Victoria Police Museum,Art Gallery/Museum,,,-37.82221828,144.95404,Galleries and Museums
+289,Immigration Museum,Art Gallery/Museum,,,-37.81917988,144.9604268,Galleries and Museums
+290,Fire Services Museum Victoria,Art Gallery/Museum,,,-37.80857613,144.9753737,Galleries and Museums
+291,The Ian Potter Museum Of Art,Art Gallery/Museum,,,-37.79739396,144.9641567,Galleries and Museums
+292,Koorie Heritage Trust Inc,Art Gallery/Museum,,,-37.81338543,144.9540279,Galleries and Museums
+293,Cooks' Cottage,Art Gallery/Museum,,,-37.81446049,144.9794713,Galleries and Museums
+294,Royal Exhibition Building,Art Gallery/Museum,,,-37.80460262,144.9715219,Galleries and Museums
+295,Australian Centre For The Moving Image (ACMI),Art Gallery/Museum,,,-37.81761073,144.9690704,Galleries and Museums
+296,The Museum Of Australian Chinese History,Art Gallery/Museum,,,-37.81076861,144.9692339,Galleries and Museums
+297,Melbourne Exhibition Centre,Function/Conference/Exhibition Centre,,,-37.82524551,144.9543524,Galleries and Museums
+298,Melbourne Convention Centre,Function/Conference/Exhibition Centre,,,-37.82490405,144.9522883,Galleries and Museums
+299,Central Pier,Function/Conference/Exhibition Centre,,,-37.81651773,144.943475,Galleries and Museums
+300,Dallas Brooks Centre,Function/Conference/Exhibition Centre,,,-37.80973741,144.9813834,Galleries and Museums
+301,Kangan Batman Tafe,Further Education,,,-37.82218182,144.9489085,Education Centres
+302,Carlton Gardens Primary School,Primary Schools,,,-37.80209538,144.9694063,Education Centres
+303,Carlton Primary School,Primary Schools,,,-37.79590798,144.9701473,Education Centres
+304,Kensington Primary School,Primary Schools,,,-37.7925235,144.9271087,Education Centres
+305,North Melbourne Primary School,Primary Schools,,,-37.79867372,144.9510658,Education Centres
+306,Wesley College,School - Primary and Secondary Education,,,-37.84852018,144.9822278,Education Centres
+307,Melbourne Girls Grammar School,School - Primary and Secondary Education,,,-37.83153645,144.9850894,Education Centres
+308,Melbourne Grammar School,Secondary Schools,,,-37.8342561,144.976285,Education Centres
+309,University High School,Secondary Schools,,,-37.79731362,144.9560344,Education Centres
+310,University of Melbourne (VCA and Music),Tertiary (University),,,-37.82411377,144.9693325,Education Centres
+311,BIO 21 Institute,Tertiary (University),,,-37.79787433,144.9537803,Education Centres
+312,University of Melbourne,Tertiary (University),,,-37.79828923,144.9609952,Education Centres
+313,RMIT University,Tertiary (University),,,-37.80807954,144.964453,Education Centres
+314,State Library Victoria,Public Buildings,,,-37.80998522,144.9643303,Community Buildings
+315,Supreme Court,Public Buildings,,,-37.81414942,144.957894,Community Buildings
+316,Melbourne Town Hall,Public Buildings,,,-37.81507548,144.9665427,Community Buildings
+317,Sidney Myer Music Bowl,Public Buildings,,,-37.82334716,144.9746862,Community Buildings
+318,Melbourne Theatre Company,Public Buildings,,,-37.82393038,144.9682974,Community Buildings
+319,Elisabeth Murdoch Hall,Public Buildings,,,-37.82397337,144.967451,Community Buildings
+320,Melbourne Recital Centre,Public Buildings,,,-37.82383279,144.9676827,Community Buildings
+321,NGV International,Public Buildings,,,-37.8230135,144.9693425,Community Buildings
+322,Shrine of Remembrance,Public Buildings,,,-37.830208,144.9734419,Community Buildings
+323,Commonwealth Law Courts,Public Buildings,,,-37.81239617,144.9558238,Community Buildings
+324,Conservatory,Public Buildings,,,-37.81400213,144.9785597,Community Buildings
+325,Melbourne Childrens Court,Public Buildings,,,-37.81250776,144.9582989,Community Buildings
+326,County Court Melbourne,Public Buildings,,,-37.81320116,144.9577342,Community Buildings
+327,Melbourne Visitor Booth,Visitor Centre,,,-37.81395251,144.9644259,Community Buildings
+328,Melbourne Visitor Centre,Visitor Centre,,,-37.81773524,144.9679371,Community Buildings
+329,Webb Bridge,Bridge,,,-37.82320524,144.947291,Transport
+330,New Quay Marina,Marina,,,-37.81529255,144.9422837,Transport
+331,Flemington Bridge Railway Station,Railway Station,,,-37.78816459,144.9392778,Transport
+332,Southern Cross Railway Station,Railway Station,,,-37.81816331,144.9529447,Transport
+333,Flagstaff Railway Station,Railway Station,,,-37.81223565,144.9563182,Transport
+334,Parliament Railway Station,Railway Station,,,-37.81160618,144.9730173,Transport
+335,Richmond Railway Station (Richmond) - Train stop,Railway Station,,,-37.82389927,144.9894008,Transport
+336,Jolimont-MCG Railway Station (East Melbourne) - Train stop,Railway Station,,,-37.81656518,144.983641,Transport
+337,Macaulay Railway Station (North Melbourne) - Train stop,Railway Station,,,-37.794964,144.9361908,Transport
+338,Kensington Railway Station,Railway Station,,,-37.79391401,144.9307102,Transport
+339,South Kensington Railway Station,Railway Station,,,-37.79972705,144.9258377,Transport
+340,Royal Park Railway Station,Railway Station,,,-37.78126843,144.9516678,Transport
+341,Parliament Railway Station,Railway Station,,,-37.81215728,144.973742,Transport
+342,Parliament Railway Station,Railway Station,,,-37.81276211,144.9734338,Transport
+343,Parliament Railway Station,Railway Station,,,-37.80957622,144.9723301,Transport
+344,Flagstaff Railway Station,Railway Station,,,-37.81163844,144.9561187,Transport
+345,Melbourne Central Railway Station,Railway Station,,,-37.80977593,144.9626701,Transport
+346,Melbourne Central Railway Station,Railway Station,,,-37.81059924,144.9616906,Transport
+347,Melbourne Central Railway Station,Railway Station,,,-37.810893,144.9631007,Transport
+348,Flemington Racecourse Railway Station,Railway Station,,,-37.78691058,144.9081907,Transport
+349,Showgrounds Railway Station (Flemington),Railway Station,,,-37.78346512,144.9149026,Transport
+350,Newmarket Railway Station,Railway Station,,,-37.78727262,144.92906,Transport
+351,Flinders Street Railway Station,Railway Station,,,-37.8179063,144.9670648,Transport
+352,Melbourne Central Railway Station,Railway Station,,,-37.8100167,144.9637893,Transport
+353,North Melbourne Railway Station,Railway Station,,,-37.80738236,144.9424298,Transport
+354,Port of Melbourne,Transport Terminal,,,-37.81373844,144.9175343,Transport
+355,Kangan Batman Tafe,Further Education,,,-37.82218182,144.9489085,Education Centres
+356,Carlton Gardens Primary School,Primary Schools,,,-37.80209538,144.9694063,Education Centres
+357,Carlton Primary School,Primary Schools,,,-37.79590798,144.9701473,Education Centres
+358,Kensington Primary School,Primary Schools,,,-37.7925235,144.9271087,Education Centres
+359,North Melbourne Primary School,Primary Schools,,,-37.79867372,144.9510658,Education Centres
+360,Wesley College,School - Primary and Secondary Education,,,-37.84852018,144.9822278,Education Centres
+361,Melbourne Girls Grammar School,School - Primary and Secondary Education,,,-37.83153645,144.9850894,Education Centres
+362,Melbourne Grammar School,Secondary Schools,,,-37.8342561,144.976285,Education Centres
+363,University High School,Secondary Schools,,,-37.79731362,144.9560344,Education Centres
+364,University of Melbourne (VCA and Music),Tertiary (University),,,-37.82411377,144.9693325,Education Centres
+365,BIO 21 Institute,Tertiary (University),,,-37.79787433,144.9537803,Education Centres
+366,University of Melbourne,Tertiary (University),,,-37.79828923,144.9609952,Education Centres
+367,RMIT University,Tertiary (University),,,-37.80807954,144.964453,Education Centres
+368,2000 year old Gladiator helmet unveiled in Melbourne,03/06/05 - [link](http://www.abc.net.au/local/photos/2009/06/04/2589654.htm),,,-37.803646,144.972942,ABC News
+369,A change of uniform,23/01/07 - [link](http://www.abc.net.au/local/photos/2011/01/24/3119724.htm),,,-37.802422,144.961498,ABC News
+370,A premiership tradition,21/09/05 - [link](http://www.abc.net.au/local/photos/2009/09/22/2693204.htm),,,-37.819021,144.984052,ABC News
+371,ABC Community Concert: Sunday March 1 Myer Music Bowl,03/03/05 - [link](http://www.abc.net.au/local/photos/2009/03/04/2507366.htm),,,-37.823328,144.974673,ABC News
+372,Alan Brough broadcasts from the Children's Book Festival at the State Library,07/04/07 - [link](http://www.abc.net.au/local/photos/2011/04/08/3185987.htm) - Spot the dog gives a hug at the Children's Book Festival - Copyright: ABC | Source: ABC Local | Byline: Peter Giafis,http://www.abc.net.au/reslib/201104/r746875_6157785.jpg,,-37.80984329,144.9652004,ABC News
+373,Alan Brough is an Aussie!,01/12/05 - [link](http://www.abc.net.au/local/photos/2009/12/02/2759660.htm),,,-37.803638,145.005069,ABC News
+374,Apology to the Stolen Generations: six years on thousands gather to remember and celebrate,13/02/10 - [link](http://www.abc.net.au/local/photos/2014/02/14/3944948.htm) - The great Archie Roach entrances the audience. - Copyright: ABC | Source: ABC Local | Byline: Lily Partland,http://www.abc.net.au/reslib/201402/r1237023_16366453.jpg,,-37.82348254,144.974674,ABC News
+375,Brett Sheehy launches his last Melbourne Festival program,"29/07/08 - [link](http://www.abc.net.au/local/photos/2012/07/30/3556721.htm) - Never Did Me Any Harm, a dance work inspired by Christos Tsiokas's The Slap, is supported by 774 ABC Melbourne - Copyright: ABC | Source: Supplied | Byline: Publicity Still",http://www.abc.net.au/reslib/201207/r980481_10723088.jpg,,-37.8219719,144.9707365,ABC News
+376,Cadel Evans welcomed back to Melbourne: Photos,"11/08/07 - [link](http://www.abc.net.au/local/photos/2011/08/12/3292291.htm) - Cadel Evans rides down St Kilda Rd in Melbourne, greeting the crowd - Copyright: ABC | Source: ABC Local | Byline: Simon Leo Brown",http://www.abc.net.au/reslib/201108/r812905_7283871.JPG,,-37.83090392,144.9713802,ABC News
+377,CFA team up with AFL Victoria,22/06/05 - [link](http://www.abc.net.au/local/photos/2009/06/23/2606326.htm),,,-37.85569,145.164062,ABC News
+378,Charcoal Lane opens its doors.,20/07/05 - [link](http://www.abc.net.au/local/photos/2009/07/21/2632333.htm),,,-37.806034,144.978888,ABC News
+379,Commemorating the battle for Australia,01/09/05 - [link](http://www.abc.net.au/local/photos/2009/09/02/2674682.htm),,,-37.7061714,145.0986198,ABC News
+380,Countdown's 40th Anniversary listener event,13/11/10 - [link](http://www.abc.net.au/local/photos/2014/11/14/4128992.htm) - Red Symons and Mark Holden reminisce the Countdown days and welcome guests in the original Countdown Studio - Copyright: AAP | Source: | Byline:,http://www.abc.net.au/reslib/201411/r1355979_19027954.jpg,,-37.787984,144.890538,ABC News
+381,Dark Matter,10/06/05 - [link](http://www.abc.net.au/local/photos/2009/06/11/2595607.htm),,,-37.817378,144.96866,ABC News
+382,Father Bobs' deadline,16/09/05 - [link](http://www.abc.net.au/local/photos/2009/09/17/2689011.htm),,,-37.844628,144.951305,ABC News
+383,Grand Final parade live broadcast,24/09/05 - [link](http://www.abc.net.au/local/photos/2009/09/25/2696573.htm),,,-37.81808392,144.9690977,ABC News
+384,Happy Birthday from 3LO,09/01/09 - [link](http://www.abc.net.au/local/photos/2013/01/10/3667594.htm) - Text reads: 3LO wishes you just the happiest of birthdays - Copyright: ABC | Source: ABC | Byline: Archival,http://www.abc.net.au/reslib/201301/r1057406_12349294.jpg,,-37.822262,145.032331,ABC News
+385,Hilary runs away to the circus,06/01/05 - [link](http://www.abc.net.au/local/photos/2009/01/07/2460987.htm),,,-37.81594598,144.9668205,ABC News
+386,Hosier Lane splashed with street art makeover,07/11/09 - [link](http://www.abc.net.au/local/photos/2013/11/08/3886950.htm) - A Melbourne street artist paints Hosier Lane in black before the new mural is applied. - Copyright: ABC | Source: ABC | Byline: Alyssa Allen,http://www.abc.net.au/reslib/201311/r1199275_15507439.jpg,,-37.8165452,144.9691634,ABC News
+387,Just before dawn photo competition winner announced,24/05/05 - [link](http://www.abc.net.au/local/photos/2009/05/25/2579938.htm),,,-37.81663674,144.9692318,ABC News
+388,Kids Red Carpet Gala in pictures,"10/04/10 - [link](http://www.abc.net.au/local/photos/2014/04/11/3983722.htm) - Red Symons and Raf Esptein with Puss in Boots, Kung Fu Panda, Shrek and Alex the Lion on the Red Carpet. - Copyright: ABC | Source: ABC Local | Byline: Karen Brookes",http://www.abc.net.au/reslib/201404/r1262101_16913673.jpg,,-37.817462,144.969567,ABC News
+389,Lindy and lucky listeners' Longest Lunch,15/03/05 - [link](http://www.abc.net.au/local/photos/2009/03/16/2517169.htm),,,-37.82292108,144.9575937,ABC News
+390,Live from Pompeii,13/09/05 - [link](http://www.abc.net.au/local/photos/2009/09/14/2685477.htm),,,-37.8035324,144.9727381,ABC News
+391,Lucky Diamond Rich,"26/01/07 - [link](http://www.abc.net.au/local/photos/2011/01/27/3122905.htm) - Lucky Diamond Rich, the world's most tattooed person, participating in the Rites of Passage Festival 28-30 Jan at the Royal Exhibition Centre - Copyright: ABC | Source: ABC Local | Byline: Simon Leo Brown",http://www.abc.net.au/reslib/201101/r708547_5514780.JPG,,-37.8046864,144.9716488,ABC News
+392,Melbourne braces for Comedy Festival,23/02/08 - [link](http://www.abc.net.au/local/photos/2012/02/24/3439168.htm) - Bob Downe encourages you to reserve your tickets for the Melbourne International Comedy Festival - Copyright: ABC | Source: ABC Local | Byline: Simon Leo Brown,http://www.abc.net.au/reslib/201202/r899885_9128938.jpg,,-37.820732,144.968937,ABC News
+393,Melbourne fans brave cold for Michael Jackson memorial,07/07/05 - [link](http://www.abc.net.au/local/photos/2009/07/08/2619819.htm),,,-37.81802671,144.968757,ABC News
+394,Melbourne marks NAIDOC week,08/07/06 - [link](http://www.abc.net.au/local/photos/2010/07/09/2949613.htm),,,-37.81766227,144.9673247,ABC News
+395,Melbourne's AFL Grand Final parade photo gallery,29/09/07 - [link](http://www.abc.net.au/local/photos/2011/09/30/3329811.htm) - Cameron Ling and Nick Maxwell hold the premiership cup aloft - Copyright: ABC | Source: ABC Melbourne | Byline: Peter Giafis,http://www.abc.net.au/reslib/201109/r835052_7735109.jpg,,-37.80543123,144.9632156,ABC News
+396,Melbourne's emerging artists present global sights and sounds,16/06/09 - [link](http://www.abc.net.au/local/photos/2013/06/17/3783122.htm) - The Australia-Burma Society Dance Workshop at Fitzroy - Copyright: ABC | Source: | Byline:,http://www.abc.net.au/reslib/201306/r1130651_13928865.JPG,,-37.80134953,144.9802423,ABC News
+397,Melbourne's Palace Theatre falls silent for the last time,15/05/10 - [link](http://www.abc.net.au/local/photos/2014/05/16/4006055.htm) -  - Copyright: ABC | Source: ABC Local | Byline: Clare Rawlinson,http://www.abc.net.au/reslib/201405/r1276938_17257469.JPG,,-37.8114397,144.9722886,ABC News
+398,Messages of hope,03/02/06 - [link](http://www.abc.net.au/local/photos/2010/02/04/2809844.htm),,,-37.81022154,144.9648102,ABC News
+399,Mums of newborns celebrate Mother's Day,07/05/07 - [link](http://www.abc.net.au/local/photos/2011/05/08/3210640.htm) - Baby Princess with Mum who came from Liberia to Australia last year - Copyright: ABC | Source: used with Permission | Byline:,http://www.abc.net.au/reslib/201105/r762642_6424311.JPG,,-37.798758,144.955899,ABC News
+400,Oh baby - Say hello to baby elephant Dokkoon,08/02/06 - [link](http://www.abc.net.au/local/photos/2010/02/09/2814335.htm),,,-37.78524305,144.9521032,ABC News
+401,On the beat in Melbourne,20/09/05 - [link](http://www.abc.net.au/local/photos/2009/09/21/2691869.htm),,,-37.821937,144.9532,ABC News
+402,Photos: 774 footy fever on AFL Grand Final eve,26/09/09 - [link](http://www.abc.net.au/local/photos/2013/09/27/3857899.htm) - Red Symons draws the winner of Grand Final tickets as Gerard Whateley looks on - Copyright: ABC | Source: ABC Local | Byline: Simon Leo Brown,http://www.abc.net.au/reslib/201309/r1180153_15081508.JPG,,-37.82375,144.967102,ABC News
+403,Photos: Together For Victoria,21/02/05 - [link](http://www.abc.net.au/local/photos/2009/02/22/2498043.htm),,,-37.82172189,144.9785069,ABC News
+404,Rain on the parade,24/09/05 - [link](http://www.abc.net.au/local/photos/2009/09/25/2696788.htm),,,-37.81322526,144.9741,ABC News
+405,Red carpet opening,16/09/05 - [link](http://www.abc.net.au/local/photos/2009/09/17/2689198.htm),,,-37.81735716,144.9697495,ABC News
+406,Richelle rescued by jaws of life,19/04/07 - [link](http://www.abc.net.au/local/photos/2011/04/20/3196825.htm) - Richelle Hunt reports for ABC Melbourne as she is freed from a car during a mock rescue at Federation Square. - Copyright: ABC | Source: ABC Melbourne | Byline: Peter Giafis,http://www.abc.net.au/reslib/201104/r754794_6290562.JPG,,-37.81783602,144.9685103,ABC News
+407,Score with 774: Aus Open highlights,23/01/10 - [link](http://www.abc.net.au/local/photos/2014/01/24/3931628.htm) - Pletikos sisters Natasha and Emily celebrating Natasha's birthday at the Big Ted Arena. - Copyright: ABC | Source: ABC | Byline: Alyssa Allen,http://www.abc.net.au/reslib/201401/r1228466_16172128.jpg,,-37.8218024,144.9808002,ABC News
+408,Service commemorates bushfires,14/02/05 - [link](http://www.abc.net.au/local/photos/2009/02/15/2491936.htm),,,-37.8127167,144.9814653,ABC News
+409,"Six-year-old Isabelle worried about ABC, holds bake-off","05/02/10 - [link](http://www.abc.net.au/local/photos/2014/02/06/3939162.htm) - ABC Managing Direcor Mark Scott holds a $40 cheque from six year old Isabelle, who raised the money with a bake stall - Copyright: ABC | Source: ABC Local | Byline: Simon Leo Brown",http://www.abc.net.au/reslib/201402/r1233633_16287872.jpg,,-37.8236711,144.9662814,ABC News
+410,"Tears, dust and ashes: a service of prayer, hope and remembrance",12/02/05 - [link](http://www.abc.net.au/local/photos/2009/02/13/2491426.htm),,,-37.81707323,144.9677378,ABC News
+411,The 2009 Brownlow Medal,20/09/05 - [link](http://www.abc.net.au/local/photos/2009/09/21/2692456.htm),,,-37.82400373,144.9572986,ABC News
+412,The Melbourne Art Fair 2012,"07/08/08 - [link](http://www.abc.net.au/local/photos/2012/08/08/3563317.htm) - Mime, Melbourne Art Fair 2012. - Copyright: ABC | Source: ABC | Byline: Caleb Cluff",http://www.abc.net.au/reslib/201208/r984697_10811918.jpg,,-37.80478275,144.9720562,ABC News
+413,The strange world of Stifter's Dinge,07/10/06 - [link](http://www.abc.net.au/local/photos/2010/10/08/3033416.htm) - The show starts with the stage barely lit - Copyright: ABC | Source: ABC Local | Byline: Simon Leo Brown,http://www.abc.net.au/reslib/201010/r652460_4599090.jpg,,-37.827046,144.966925,ABC News
+414,Victoria Police launch new uniform with catwalk show,04/12/08 - [link](http://www.abc.net.au/local/photos/2012/12/05/3648001.htm) - Police and Protective Service Officers model their new uniforms as Chief Commissioner Ken Lay speaks to the assembled crowd - Copyright: ABC | Source: ABC Local | Byline: Simon Leo Brown,http://www.abc.net.au/reslib/201212/r1044571_12072637.jpg,,-37.822574,144.952315,ABC News
