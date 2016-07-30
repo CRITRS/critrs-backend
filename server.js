@@ -61,7 +61,7 @@ app.post("/encounter", function(request, response) {
   }
 });
 
-port = 8999;
+port = 80;
 app.listen(port, function() {
   console.log("Starting server on " + port);
 });
