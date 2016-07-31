@@ -5,7 +5,7 @@ var d3 = require("d3");
 var rw = require("rw");
 
 function getPOIFeatureCollection() {
-  var pointsOfInterest = d3.csvParse(rw.readFileSync("points_of_interest.csv").toString());
+  var pointsOfInterest = d3.csvParse(rw.readFileSync(path.join("data", "points_of_interest.csv")).toString());
 
   var poiPoints = pointsOfInterest.map(function(poi) {
     return turf.point([+poi.longitude, +poi.latitude], poi);
@@ -15,7 +15,7 @@ function getPOIFeatureCollection() {
 }
 
 function getAnimalEncountersFeatureCollection() {
-  var animalSightings = d3.csvParse(rw.readFileSync("fake_animal_sightings.csv").toString());
+  var animalSightings = d3.csvParse(rw.readFileSync(path.join("data", "animal_sightings.csv")).toString());
 
   var animalPoints = animalSightings.map(function(sighting) {
     return turf.point([+sighting.longitude, +sighting.latitude], sighting);
@@ -25,32 +25,29 @@ function getAnimalEncountersFeatureCollection() {
 }
 
 // NOTE(yuri): Given a featureCollection collection and a featureCollection of areas,
-// populate tagKey of byArea by any tagged SA2_MAINs that match.
+// populate tagKey of byArea by any tagged area ids
 function tagCollection(collection, areas, byArea, tagKey) {
-  var tagged = turf.tag(collection, areas, "SA2_MAIN", "SA2_ID");
+  console.log("tagging collection", tagKey);
+  var tagged = turf.tag(collection, areas, "LC_PLY_PID", "AREA_ID");
   tagged.features.forEach(function(taggedFeature) {
-    if (taggedFeature.properties.SA2_ID) {
+    if (taggedFeature.properties.AREA_ID) {
       var properties = taggedFeature.properties;
-      byArea[properties.SA2_ID][tagKey].push(properties.id);
+      console.log(properties);
+      byArea[properties.AREA_ID][tagKey].push(properties.id);
     }
   });
 }
 
-shapefile.read(path.join("Statistical Area 2", "SA2_2011_AUST.shp"), function(err, sa1_FC) {
-  var testFilter = function(feature) {
-    return feature.properties.STATE_CODE === "2";
-    // return feature;
-  };
-
-  var sa1ValidFeatures = sa1_FC.features.filter(function(feature) {
-    return feature.geometry !== null && (feature.geometry.type === "Polygon" || feature.geometry.type === "MultiPolygon") && testFilter(feature);
+shapefile.read(path.join("shapes", "Suburbs", "VIC_LOCALITY_POLYGON_shp.shp"), function(err, suburbFC) {
+  var validFeatures = suburbFC.features.filter(function(feature) {
+    return feature.geometry !== null && (feature.geometry.type === "Polygon" || feature.geometry.type === "MultiPolygon");
   });
 
-  var areas = turf.featureCollection(sa1ValidFeatures);
+  var areas = turf.featureCollection(validFeatures);
 
   var byArea = {};
   areas.features.forEach(function(area) {
-    byArea[area.properties.SA2_MAIN] = {
+    byArea[area.properties.LC_PLY_PID] = {
       encounters: [],
       landmarks: [],
     };
@@ -60,7 +57,7 @@ shapefile.read(path.join("Statistical Area 2", "SA2_2011_AUST.shp"), function(er
   tagCollection(getAnimalEncountersFeatureCollection(), areas, byArea, "encounters");
 
   console.log(byArea);
-  rw.writeFileSync("by_area.json", JSON.stringify(byArea));
+  rw.writeFileSync(path.join("generated_data", "by_area.json"), JSON.stringify(byArea));
 });
 
 
